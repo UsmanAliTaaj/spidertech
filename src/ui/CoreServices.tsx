@@ -17,6 +17,35 @@ const CoreServices = () => {
             Website <span className="text-secondaryColor -mt-1">UI Design</span>
           </p>
         </div>
+
+        <div className="w-full h-60 bg-transparent border border-borderColor hover:border-transparent hover:cursor-pointer transition-hover duration-500 hover:shadow-customShadowOne hover:shadow-secondaryColor flex flex-col justify-center items-center gap-6">
+          <SiAntdesign className="text-5xl" />
+          <p className="text-2xl font-semibold flex flex-col items-center">
+            Website <span className="text-secondaryColor -mt-1">UI Design</span>
+          </p>
+        </div>
+
+        <div className="w-full h-60 bg-transparent border border-borderColor hover:border-transparent hover:cursor-pointer transition-hover duration-500 hover:shadow-customShadowOne hover:shadow-secondaryColor flex flex-col justify-center items-center gap-6">
+          <SiAntdesign className="text-5xl" />
+          <p className="text-2xl font-semibold flex flex-col items-center">
+            Website <span className="text-secondaryColor -mt-1">UI Design</span>
+          </p>
+        </div>
+
+        <div className="w-full h-60 bg-transparent border border-borderColor hover:border-transparent hover:cursor-pointer transition-hover duration-500 hover:shadow-customShadowOne hover:shadow-secondaryColor flex flex-col justify-center items-center gap-6">
+          <SiAntdesign className="text-5xl" />
+          <p className="text-2xl font-semibold flex flex-col items-center">
+            Website <span className="text-secondaryColor -mt-1">UI Design</span>
+          </p>
+        </div>
+
+        <div className="w-full h-60 bg-transparent border border-borderColor hover:border-transparent hover:cursor-pointer transition-hover duration-500 hover:shadow-customShadowOne hover:shadow-secondaryColor flex flex-col justify-center items-center gap-6">
+          <SiAntdesign className="text-5xl" />
+          <p className="text-2xl font-semibold flex flex-col items-center">
+            Website <span className="text-secondaryColor -mt-1">UI Design</span>
+          </p>
+        </div>
+        
         <div className="w-full h-60 bg-transparent border border-borderColor hover:border-transparent hover:cursor-pointer transition-hover duration-500 hover:shadow-customShadowOne hover:shadow-secondaryColor flex flex-col justify-center items-center gap-6">
           <RiCodeSSlashFill className="text-5xl" />
           <p className="text-2xl font-semibold flex flex-col items-center">

@@ -16,7 +16,7 @@ const navigation = [
   { title: "About us", link: "/about" },
   { title: "Services", link: "/services" },
   { title: "Faq", link: "/faq" },
-  { title: "Blog", link: "/blog" },
+  // { title: "Blog", link: "/blog" },
   { title: "Contact", link: "/contact" },
 ];
 
@@ -175,11 +175,11 @@ const Header = () => {
                 FAQ
               </li>
             </Link>
-            <Link href="/blog">
+            {/* <Link href="/blog">
               <li className="px-3 hover:cursor-pointer py-2 border-b-[1px] border-b-borderColor hover:text-secondaryColor hover:border-b-secondaryColor transition-hover duration-500">
                 Blog
               </li>
-            </Link>
+            </Link> */}
             <Link onClick={() => setToggleNav(false)} href="/contact">
               <li className="px-3 hover:cursor-pointer py-2 border-b-[1px] border-b-borderColor hover:text-secondaryColor hover:border-b-secondaryColor transition-hover duration-500">
                 Contact

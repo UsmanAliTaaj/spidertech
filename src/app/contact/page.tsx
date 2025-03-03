@@ -25,7 +25,7 @@ const Contact = () => {
               We are awaiting to create something exceptional for you or your
               organization. Please feel free to send us the details about your
               needs. You can find us on WhatsApp at{" "}
-              <span className="text-secondaryColor">+88 01817986903</span>.
+              <span className="text-secondaryColor">+92 309 149 0107</span>.
             </p>
           </div>
           <div>
@@ -49,34 +49,34 @@ const Contact = () => {
           </h3>
           <div className="mt-4 flex flex-col gap-8">
             <div className="flex flex-col gap-2">
-              <h4 className="text-lg uppercase">Bangladesh :</h4>
+              <h4 className="text-lg uppercase">Pakistan :</h4>
               <p className="flex items-center gap-3 text-darkText hover:text-white hover:cursor-pointer transition-hover duration-300">
                 <span className="text-secondaryColor text-lg">
                   <FaHome />
                 </span>
-                Lorem, ipsum. <br />
-                Dhaka, Bangladesh.
+                Peer Colony Walton. <br />
+                Lahore, Pakistan.
               </p>
               <p className="flex items-center gap-3 text-darkText hover:text-white hover:cursor-pointer transition-hover duration-300">
                 <span className="text-secondaryColor text-lg">
                   <MdMarkEmailUnread />
                 </span>
-                reactjsbd@gmail.com
+                spidertech@gmail.com
               </p>
               <p className="flex items-center gap-3 text-darkText hover:text-white hover:cursor-pointer transition-hover duration-300">
                 <span className="text-secondaryColor text-lg">
                   <BsPhoneFill />
                 </span>
-                +00 01000000000
+                +92 325 285 1891
               </p>
               <p className="flex items-center gap-3 text-darkText hover:text-white hover:cursor-pointer transition-hover duration-300">
                 <span className="text-secondaryColor text-lg">
                   <IoLogoWhatsapp />
                 </span>
-                +88 01100000000
+                +92 309 149 0107
               </p>
             </div>
-            <div className="flex flex-col gap-2">
+            {/* <div className="flex flex-col gap-2">
               <h4 className="text-lg uppercase">USA :</h4>
               <p className="flex items-center gap-3 text-darkText hover:text-white hover:cursor-pointer transition-hover duration-300">
                 <span className="text-secondaryColor text-lg">
@@ -103,7 +103,7 @@ const Contact = () => {
                 </span>
                 +00 24187627
               </p>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

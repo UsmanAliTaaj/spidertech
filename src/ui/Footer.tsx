@@ -14,7 +14,7 @@ const Footer = () => {
     <div className="max-w-screen-2xl mx-auto px-8 grid grid-cols-1 md:grid-cols-2 lgl:grid-cols-4 gap-8 py-10 border-t border-t-borderColor">
       <div className="flex flex-col gap-4">
         <h2 className="font-titleFont text-2xl font-normal tracking-wider">
-          ReactBD
+          Spider Tech
         </h2>
         <p className="text-base text-darkText tracking-wide">
           Lorem ipsum dolor sit amet, consyect etur adipiscing elit. Quisque
@@ -36,23 +36,23 @@ const Footer = () => {
             <span className="text-white text-xl">
               <FaHome />
             </span>
-            198 West 21th Street, Suite 721 New York, NY 10010
+            Peer Colony Walton. Lahore Pakistan
           </p>
           <p className="font-base text-darkText flex items-start gap-6 justify-start hover:text-white duration-500 cursor-pointer">
             <span className="text-white text-xl">
               <MdEmail />
             </span>
-            reactjsbd@gmail.com
+            spidertech@gmail.com
           </p>
           <p className="font-base text-darkText flex items-start gap-6 justify-start hover:text-white duration-500 cursor-pointer">
             <span className="text-white text-xl">
               <BsFillPhoneFill />
             </span>
-            +00 24187626
+            +92 309 149 0107
           </p>
         </div>
       </div>
-      <div>
+      {/* <div>
         <h3 className="font-titleFont text-xl font-semibold mb-4">
           Blog Contains
         </h3>
@@ -76,7 +76,7 @@ const Footer = () => {
             +00 24187627
           </p>
         </div>
-      </div>
+      </div> */}
       <div>
         <h3 className="font-titleFont text-xl font-semibold mb-4">
           Support & Downloads
