@@ -18,25 +18,25 @@ const faqData = [
     _id: "01",
     title: "How to order from here?",
     subTitle:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veniam sit corporis labore possimus blanditiis sed quo deserunt asperiores molestiae commodi.",
+      "Ordering is simple! Browse our services, select the one that fits your needs, and contact us through our website or WhatsApp. Our team will guide you through the process and provide a custom quote.",
   },
   {
     _id: "02",
     title: "Is services are applicable for me?",
     subTitle:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veniam sit corporis labore possimus blanditiis sed quo deserunt asperiores molestiae commodi.",
+      "Yes! Our services cater to businesses, startups, freelancers, and individuals looking for web development, marketing, or consulting solutions. If you're unsure, contact us, and we’ll recommend the best service for you.",
   },
   {
     _id: "03",
     title: "How long it will take to delivery?",
     subTitle:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veniam sit corporis labore possimus blanditiis sed quo deserunt asperiores molestiae commodi.",
+      "The delivery time depends on the complexity of the service. Most projects take between 3 to 14 days, but we provide an estimated timeframe before starting. Urgent requests may have faster turnaround times.",
   },
   {
     _id: "05",
     title: "Where is my Order?",
     subTitle:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veniam sit corporis labore possimus blanditiis sed quo deserunt asperiores molestiae commodi.",
+      "You can track your order status by contacting our support team via email, WhatsApp, or live chat. We’ll keep you updated throughout the process and notify you once your order is complete.",
   },
 ];
 
@@ -90,34 +90,34 @@ const Faq = () => {
           </h3>
           <div className="mt-4 flex flex-col gap-8">
             <div className="flex flex-col gap-2">
-              <h4 className="text-lg uppercase">Bangladesh :</h4>
+              <h4 className="text-lg uppercase">Pakistan :</h4>
               <p className="flex items-center gap-3 text-darkText hover:text-white hover:cursor-pointer transition-hover duration-300">
                 <span className="text-secondaryColor text-lg">
                   <FaHome />
                 </span>
-                Rupnogor Abashik Area, <br />
-                Mirpur-1, Dhaka.
+                Peer Colony Walton, <br />
+                Lahore, Pakistan.
               </p>
               <p className="flex items-center gap-3 text-darkText hover:text-white hover:cursor-pointer transition-hover duration-300">
                 <span className="text-secondaryColor text-lg">
                   <MdMarkEmailUnread />
                 </span>
-                reactjsbd@gmail.com
+                spidertech143@gmail.com
               </p>
               <p className="flex items-center gap-3 text-darkText hover:text-white hover:cursor-pointer transition-hover duration-300">
                 <span className="text-secondaryColor text-lg">
                   <BsPhoneFill />
                 </span>
-                +968 97859628
+                +92 325 285 1891
               </p>
               <p className="flex items-center gap-3 text-darkText hover:text-white hover:cursor-pointer transition-hover duration-300">
                 <span className="text-secondaryColor text-lg">
                   <IoLogoWhatsapp />
                 </span>
-                +968 97859628
+                +92 309 149 0107
               </p>
             </div>
-            <div className="flex flex-col gap-2">
+            {/* <div className="flex flex-col gap-2">
               <h4 className="text-lg uppercase">Oman :</h4>
               <p className="flex items-center gap-3 text-darkText hover:text-white hover:cursor-pointer transition-hover duration-300">
                 <span className="text-secondaryColor text-lg">
@@ -144,7 +144,7 @@ const Faq = () => {
                 </span>
                 +968 97859628
               </p>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

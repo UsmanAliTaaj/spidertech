@@ -98,27 +98,27 @@ const PickDomain = () => {
               <span className="text-secondaryColor">
                 <GiCheckMark />
               </span>
-              Make it memorable
+              Keep it short and simple
             </p>
-            <p className="flex items-center gap-2 text-gray-300 hover:text-white duration-300 cursor-pointer">
+            {/* <p className="flex items-center gap-2 text-gray-300 hover:text-white duration-300 cursor-pointer">
               <span className="text-secondaryColor">
                 <GiCheckMark />
               </span>
-              Avoid hyphens
-            </p>
+              Use relevant keywords
+            </p> */}
           </div>
           <div className="flex flex-col items-start gap-0 md:flex-row md:items-center md:justify-between">
             <p className="flex items-center gap-2 text-gray-300 hover:text-white duration-300 cursor-pointer">
               <span className="text-secondaryColor">
                 <GiCheckMark />
               </span>
-              Make it memorable
+              Choose a trustworthy domain extension
             </p>
             <p className="flex items-center gap-2 text-gray-300 hover:text-white duration-300 cursor-pointer">
               <span className="text-secondaryColor">
                 <GiCheckMark />
               </span>
-              Avoid hyphens
+              Make it brandable
             </p>
           </div>
         </motion.div>

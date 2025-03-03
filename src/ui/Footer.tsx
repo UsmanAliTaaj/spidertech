@@ -30,28 +30,28 @@ const Footer = () => {
         </p> */}
         <p className="flex items-center text-lg gap-5">
           <a
-            href="https://www.tiktok.com/@yourprofile"
+            href="https://www.tiktok.com/@spider.tech143?_t=ZS-8uNpETDCAnn&_r=1"
             target="_blank"
             rel="noopener noreferrer"
           >
             <FaTiktok className="text-white hover:text-secondaryColor duration-500 cursor-pointer" />
           </a>
           <a
-            href="https://www.facebook.com/yourprofile"
+            href="https://www.facebook.com/profile.php?id=61573523834811"
             target="_blank"
             rel="noopener noreferrer"
           >
             <ImFacebook className="text-white hover:text-secondaryColor duration-500 cursor-pointer" />
           </a>
-          <a
+          {/* <a
             href="https://www.youtube.com/@yourchannel"
             target="_blank"
             rel="noopener noreferrer"
           >
             <BsYoutube className="text-white hover:text-secondaryColor duration-500 cursor-pointer" />
-          </a>
+          </a> */}
           <a
-            href="https://www.instagram.com/yourprofile"
+            href="https://www.instagram.com/spidertech143/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -74,7 +74,7 @@ const Footer = () => {
             <span className="text-white text-xl">
               <MdEmail />
             </span>
-            spidertech@gmail.com
+            spidertech143@gmail.com
           </p>
           <p className="font-base text-darkText flex items-start gap-6 justify-start hover:text-white duration-500 cursor-pointer">
             <span className="text-white text-xl">

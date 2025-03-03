@@ -5,7 +5,7 @@ import React from "react";
 const AboutUs = () => {
   return (
     <div>
-      <TitleBanner subtitle="Know more about us" title="About our Services" />
+      <TitleBanner subtitle="Know more about us" title="About our Company" />
       <Designing />
     </div>
   );

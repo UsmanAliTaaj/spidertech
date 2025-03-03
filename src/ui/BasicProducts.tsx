@@ -35,8 +35,7 @@ const BasicProducts = () => {
         </div>
         <div>
           <p className="text-darkText text-base tracking-wide text-start">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum
-            molestiae veniam quasi mollitia!
+          Requires additional configurations for SEO optimization.!
           </p>
         </div>
       </div>
@@ -63,8 +62,7 @@ const BasicProducts = () => {
         </div>
         <div>
           <p className="text-darkText text-base tracking-wide text-start">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum
-            molestiae veniam quasi mollitia!
+          Performance lags behind fully native apps for complex animations!
           </p>
         </div>
       </div>
@@ -89,8 +87,7 @@ const BasicProducts = () => {
         </div>
         <div>
           <p className="text-darkText text-base tracking-wide text-start">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum
-            molestiae veniam quasi mollitia!
+          Server-side rendering (SSR) can add complexity to simple projects!
           </p>
         </div>
       </div>
@@ -117,8 +114,7 @@ const BasicProducts = () => {
         </div>
         <div>
           <p className="text-darkText text-base tracking-wide text-start">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum
-            molestiae veniam quasi mollitia!
+          Can lead to bloated HTML and inline style complexity!
           </p>
         </div>
       </div>
@@ -143,8 +139,7 @@ const BasicProducts = () => {
         </div>
         <div>
           <p className="text-darkText text-base tracking-wide text-start">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum
-            molestiae veniam quasi mollitia!
+          Pricing scales quickly for large content-heavy applications!
           </p>
         </div>
       </div>
@@ -169,8 +164,7 @@ const BasicProducts = () => {
         </div>
         <div>
           <p className="text-darkText text-base tracking-wide text-start">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum
-            molestiae veniam quasi mollitia!
+          Vendor lock-in with limited SQL-based database options!
           </p>
         </div>
       </div>
@@ -195,8 +189,7 @@ const BasicProducts = () => {
         </div>
         <div>
           <p className="text-darkText text-base tracking-wide text-start">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum
-            molestiae veniam quasi mollitia!
+          Expensive for high-traffic applications with heavy backend processing!
           </p>
         </div>
       </div>
@@ -221,8 +214,7 @@ const BasicProducts = () => {
         </div>
         <div>
           <p className="text-darkText text-base tracking-wide text-start">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum
-            molestiae veniam quasi mollitia!
+          Limited backend flexibility compared to traditional cloud providers!
           </p>
         </div>
       </div>

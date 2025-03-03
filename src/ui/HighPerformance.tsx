@@ -18,8 +18,9 @@ const HighPerformance = () => {
           </div>
           <div>
             <p className="w-full lg:pr-44 text-base text-center lg:text-left text-darkText">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis
-              voluptas impedit nihil veritatis, quas illum!
+              Create a high-performance SQL Server instance optimized for speed,
+              reliability, and scalability, ensuring seamless data management
+              and efficient query execution!
             </p>
           </div>
           <div className="flex justify-center lg:justify-start">

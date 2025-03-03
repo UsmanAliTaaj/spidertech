@@ -28,8 +28,9 @@ const WhatWeDo = () => {
                 01
               </span>
               <p className="text-base text-darkText">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore
-                dolor exercitationem temporibus dolorem. Repudiandae ipsum!!
+                Trying to cover everything may dilute expertise. Clients often
+                prefer specialists who excel in specific areas rather than a
+                generalist approach!
               </p>
             </div>
             <div className="flex gap-10 w-full md:w-4/5">
@@ -37,8 +38,9 @@ const WhatWeDo = () => {
                 02
               </span>
               <p className="text-base text-darkText">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore
-                dolor exercitationem temporibus dolorem. Repudiandae ipsum!!
+                Handling every aspect of web and online services requires
+                extensive resources, manpower, and infrastructure, which can
+                impact efficiency and quality!
               </p>
             </div>
           </div>
