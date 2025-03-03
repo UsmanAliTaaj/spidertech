@@ -35,6 +35,39 @@ const Designing = () => {
                 strong online presence with scalable, high-performance
                 applications.
               </p>
+
+              <h3 className="text-xl font-semibold">Who We Are</h3>
+//           <p className="text-base text-darkText">
+//             We are a team of skilled developers, designers, and digital strategists
+//             committed to delivering high-quality solutions tailored to our clients' needs.
+//             Our mission is to empower businesses with technology by creating modern, user-friendly,
+//             and efficient digital products.
+//           </p>
+//           <h3 className="text-xl font-semibold">What We Do</h3>
+//           <ul className="list-disc list-inside text-base text-darkText">
+//             <li>Custom Web Development  Scalable and high-performance websites</li>
+//             <li>E-commerce Solutions  Build secure and conversion-focused online stores</li>
+//             <li>Mobile App Development  Native and cross-platform mobile applications</li>
+//             <li>UI/UX Design  Intuitive and visually appealing designs</li>
+//             <li>SEO & Digital Marketing  Boost online visibility and engagement</li>
+//             <li>Cloud Solutions  Secure and scalable cloud infrastructure</li>
+//           </ul>
+//           <h3 className="text-xl font-semibold">Why Choose Us?</h3>
+//           <ul className="list-disc list-inside text-base text-darkText">
+//             <li>Expertise & Innovation  We use the latest technologies to create cutting-edge solutions.</li>
+//             <li>Client-Centric Approach  Our solutions are tailored to meet unique business needs.</li>
+//             <li>End-to-End Services  From concept to launch, we handle everything.</li>
+//             <li>Reliable Support  We provide ongoing maintenance and technical support.</li>
+//           </ul>
+//           <h3 className="text-xl font-semibold">Our Vision</h3>
+//           <p className="text-base text-darkText">
+//             To be a leading tech-driven company that transforms businesses digitally and creates impactful web experiences that stand the test of time.
+//           </p>
+//           <h3 className="text-xl font-semibold">Get in Touch</h3>
+//           <p className="text-base text-darkText">
+//             Let's build something amazing together! Whether you need a website, app, or digital solution, Spider Tech is here to help.
+//           </p>
+
             </div>
             {/* <div className="flex gap-10 mdl:w-4/5">
               <span className="font-titleFont relative font-normal border-b border-borderColor before:w-[1px] before:h-[7px] before:bg-borderColor before:inline-block before:left-0 before:bottom-0 before:absolute h-7 w-20 px-2">
