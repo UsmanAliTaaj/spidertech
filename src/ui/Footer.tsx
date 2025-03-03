@@ -4,9 +4,10 @@ import {
   BsYoutube,
   BsGithub,
   BsFillPhoneFill,
+  BsInstagram,
 } from "react-icons/bs";
 import { ImFacebook } from "react-icons/im";
-import { FaHome } from "react-icons/fa";
+import { FaHome, FaTiktok } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 
 const Footer = () => {
@@ -17,14 +18,45 @@ const Footer = () => {
           Spider Tech
         </h2>
         <p className="text-base text-darkText tracking-wide">
-          Lorem ipsum dolor sit amet, consyect etur adipiscing elit. Quisque
-          actraqum nunc no dolor sit amet augue dolor.
+          Spider Tech builds trust through transparency, reliability, and
+          top-tier web solutions. We prioritize client success with secure,
+          scalable, and innovative development.
         </p>
-        <p className="flex items-center text-lg gap-5">
+        {/* <p className="flex items-center text-lg gap-5">
           <BsTwitter className="text-white hover:text-secondaryColor duration-500 cursor-pointer" />
           <ImFacebook className="text-white hover:text-secondaryColor duration-500 cursor-pointer" />
           <BsYoutube className="text-white hover:text-secondaryColor duration-500 cursor-pointer" />
           <BsGithub className="text-white hover:text-secondaryColor duration-500 cursor-pointer" />
+        </p> */}
+        <p className="flex items-center text-lg gap-5">
+          <a
+            href="https://www.tiktok.com/@yourprofile"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <FaTiktok className="text-white hover:text-secondaryColor duration-500 cursor-pointer" />
+          </a>
+          <a
+            href="https://www.facebook.com/yourprofile"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <ImFacebook className="text-white hover:text-secondaryColor duration-500 cursor-pointer" />
+          </a>
+          <a
+            href="https://www.youtube.com/@yourchannel"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <BsYoutube className="text-white hover:text-secondaryColor duration-500 cursor-pointer" />
+          </a>
+          <a
+            href="https://www.instagram.com/yourprofile"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <BsInstagram className="text-white hover:text-secondaryColor duration-500 cursor-pointer" />
+          </a>
         </p>
       </div>
       <div>
@@ -78,13 +110,12 @@ const Footer = () => {
         </div>
       </div> */}
       <div>
-        <h3 className="font-titleFont text-xl font-semibold mb-4">
-          Support & Downloads
-        </h3>
+        <h3 className="font-titleFont text-xl font-semibold mb-4">Support</h3>
         <p className="text-base text-darkText">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus
-          voluptates, fuga aliquam nobis placeat iusto illum fugiat consequuntur
-          ad tempora.
+          At Spider Tech, we are committed to providing top-notch support and
+          resources to ensure seamless experiences with our web development
+          solutions. Whether you need technical assistance or the latest
+          software updates, you’ve come to the right place.
         </p>
       </div>
     </div>

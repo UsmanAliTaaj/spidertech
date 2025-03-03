@@ -58,7 +58,7 @@ const Header = () => {
               <div>
                 <Image
                   priority
-                  className="w-36"
+                  className="w-28"
                   src={reactBdLogo}
                   alt="reactBdLogo"
                 />
