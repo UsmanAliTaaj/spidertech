@@ -95,19 +95,19 @@ const Designing = () => {
           </p>
           <h3 className="text-xl font-semibold">What We Do</h3>
           <ul className="list-disc list-inside text-base text-darkText">
-            <li>Custom Web Development – Scalable and high-performance websites</li>
-            <li>E-commerce Solutions – Build secure and conversion-focused online stores</li>
-            <li>Mobile App Development – Native and cross-platform mobile applications</li>
-            <li>UI/UX Design – Intuitive and visually appealing designs</li>
-            <li>SEO & Digital Marketing – Boost online visibility and engagement</li>
-            <li>Cloud Solutions – Secure and scalable cloud infrastructure</li>
+            <li>Custom Web Development  Scalable and high-performance websites</li>
+            <li>E-commerce Solutions  Build secure and conversion-focused online stores</li>
+            <li>Mobile App Development  Native and cross-platform mobile applications</li>
+            <li>UI/UX Design  Intuitive and visually appealing designs</li>
+            <li>SEO & Digital Marketing  Boost online visibility and engagement</li>
+            <li>Cloud Solutions  Secure and scalable cloud infrastructure</li>
           </ul>
           <h3 className="text-xl font-semibold">Why Choose Us?</h3>
           <ul className="list-disc list-inside text-base text-darkText">
-            <li>Expertise & Innovation – We use the latest technologies to create cutting-edge solutions.</li>
-            <li>Client-Centric Approach – Our solutions are tailored to meet unique business needs.</li>
-            <li>End-to-End Services – From concept to launch, we handle everything.</li>
-            <li>Reliable Support – We provide ongoing maintenance and technical support.</li>
+            <li>Expertise & Innovation  We use the latest technologies to create cutting-edge solutions.</li>
+            <li>Client-Centric Approach  Our solutions are tailored to meet unique business needs.</li>
+            <li>End-to-End Services  From concept to launch, we handle everything.</li>
+            <li>Reliable Support  We provide ongoing maintenance and technical support.</li>
           </ul>
           <h3 className="text-xl font-semibold">Our Vision</h3>
           <p className="text-base text-darkText">
@@ -120,7 +120,7 @@ const Designing = () => {
           <p className="text-base text-darkText">
             📧 Email: spidertech143@gmail.com <br />
             🌐 Website: <a href="https://www.spidertech.com" className="text-blue-500">www.spidertech.com</a> <br />
-            {/* 📱 Follow Us: [Facebook] | [Instagram] | [TikTok] | [LinkedIn] */}
+            📱 Follow Us: [Facebook] | [Instagram] | [TikTok] | [LinkedIn]
           </p>
         </div>
       </div>
