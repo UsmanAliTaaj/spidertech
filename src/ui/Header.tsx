@@ -14,7 +14,7 @@ import { MdClose } from "react-icons/md";
 const navigation = [
   { title: "Home", link: "/" },
   { title: "About us", link: "/about" },
-  { title: "Services", link: "/services" },
+  // { title: "Services", link: "/services" },
   { title: "Faq", link: "/faq" },
   // { title: "Blog", link: "/blog" },
   { title: "Contact", link: "/contact" },
@@ -165,11 +165,11 @@ const Header = () => {
                 About Us
               </li>
             </Link>
-            <Link onClick={() => setToggleNav(false)} href="/services">
+            {/* <Link onClick={() => setToggleNav(false)} href="/services">
               <li className="px-3 hover:cursor-pointer flex items-center gap-1 py-2 border-b-[1px] border-b-borderColor hover:text-secondaryColor hover:border-b-secondaryColor transition-hover duration-500">
                 Services
               </li>
-            </Link>
+            </Link> */}
             <Link href="/faq">
               <li className="px-3 hover:cursor-pointer py-2 border-b-[1px] border-b-borderColor hover:text-secondaryColor hover:border-b-secondaryColor transition-hover duration-500">
                 FAQ
