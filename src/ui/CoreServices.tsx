@@ -75,6 +75,20 @@ const CoreServices = () => {
             <span className="text-secondaryColor -mt-1">Consulting</span>
           </p>
         </div>
+        <div className="w-full h-60 bg-transparent border border-borderColor hover:border-transparent hover:cursor-pointer transition-hover duration-500 hover:shadow-customShadowOne hover:shadow-secondaryColor flex flex-col justify-center items-center gap-6">
+          <BiDollar className="text-5xl" />
+          <p className="text-2xl font-semibold flex flex-col items-center">
+          Creating Payment Wallets
+            <span className="text-secondaryColor -mt-1">PayPal Stripe Payoneer</span>
+          </p>
+        </div>
+        <div className="w-full h-60 bg-transparent border border-borderColor hover:border-transparent hover:cursor-pointer transition-hover duration-500 hover:shadow-customShadowOne hover:shadow-secondaryColor flex flex-col justify-center items-center gap-6">
+          <BiDollar className="text-5xl" />
+          <p className="text-2xl font-semibold flex flex-col items-center">
+          LTD LLC
+            <span className="text-secondaryColor -mt-1">Company Registration</span>
+          </p>
+        </div>
 
       </div>
     </div>
