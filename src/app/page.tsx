@@ -19,5 +19,8 @@ export default function Home() {
       <HighPerformance />
       <Projects />
     </main>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9393520954659937"
+     crossorigin="anonymous"></script>
   );
 }
