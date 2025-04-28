@@ -63,7 +63,7 @@ const Services = () => {
        ================================================================= */}
 
       <div className="max-w-screen-lg mx-auto pt-32">
-        <div className="grid grid-cols-1 -mt-32 mb-8 lg:mb-0 md:grid-cols-2 lgl:grid-cols-4 font-titleFont font-semibold uppercase text-lg lgl:text-base xl:text-lg px-4">
+        <div className="grid items-center grid-cols-1 -mt-32 mb-8 lg:mb-0 md:grid-cols-2 lgl:grid-cols-4 font-titleFont font-semibold uppercase text-lg lgl:text-base xl:text-lg px-4">
           <p
             onClick={() => {
               setDevelopment(true);
@@ -82,7 +82,7 @@ const Services = () => {
             </span>
             Development
           </p>
-          <p
+          {/* <p
             onClick={() => {
               setDevelopment(false);
               setDesign(true);
@@ -99,8 +99,8 @@ const Services = () => {
               <SiAntdesign />
             </span>
             Design
-          </p>
-          <p
+          </p> */}
+          {/* <p
             onClick={() => {
               setDevelopment(false);
               setDesign(false);
@@ -117,8 +117,8 @@ const Services = () => {
               <IoMdCheckmarkCircle />
             </span>
             Domain
-          </p>
-          <p
+          </p> */}
+          {/* <p
             onClick={() => {
               setDevelopment(false);
               setDesign(false);
@@ -135,7 +135,7 @@ const Services = () => {
               <RiBarcodeFill />
             </span>
             Hosting
-          </p>
+          </p> */}
         </div>
       </div>
 
@@ -171,7 +171,7 @@ const Services = () => {
       )}
       {/* ===================== Development end here ====================== */}
       {/* ===================== Design start here ========================= */}
-      {design && (
+      {/* {design && (
         <motion.div
           initial={{ x: 80, opacity: 0.5 }}
           whileInView={{ x: 0, opacity: 1 }}
@@ -199,10 +199,10 @@ const Services = () => {
             />
           ))}
         </motion.div>
-      )}
+      )} */}
       {/* ===================== Design end here =========================== */}
       {/* ===================== Domain start here ========================= */}
-      {domain && (
+      {/* {domain && (
         <motion.div
           initial={{ x: 80, opacity: 0.5 }}
           whileInView={{ x: 0, opacity: 1 }}
@@ -230,10 +230,10 @@ const Services = () => {
             />
           ))}
         </motion.div>
-      )}
+      )} */}
       {/* ===================== Domain end here =========================== */}
       {/* ===================== Hosting start here ======================== */}
-      {hosting && (
+      {/* {hosting && (
         <motion.div
           initial={{ x: 80, opacity: 0.5 }}
           whileInView={{ x: 0, opacity: 1 }}
@@ -261,7 +261,7 @@ const Services = () => {
             />
           ))}
         </motion.div>
-      )}
+      )} */}
       {/* ===================== Hosting end here ========================== */}
       {/* ================================================================
                             Services components end here
