@@ -21,7 +21,7 @@ const servicesData = [
   {
     no: "02",
     title: "Single page Website",
-    startingAmt: "500.00",
+    startingAmt: "300.00",
     detailsOne: "Fully designed components",
     detailsTwo: "Highly Responsive",
     detailsThree: "Single page Website",
@@ -30,7 +30,7 @@ const servicesData = [
   },
   {
     no: "03",
-    title: "Investment Platform",
+    title: "Investment/Trading Platform",
     startingAmt: "1000.00",
     detailsOne: "Fully designed components",
     detailsTwo: "Highly Responsive",
@@ -80,7 +80,7 @@ const Services = () => {
             <span>
               <RiCodeSSlashFill />
             </span>
-            Development
+            Plans
           </p>
           {/* <p
             onClick={() => {
